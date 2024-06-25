@@ -1,0 +1,9 @@
+***
+
+# Cada primero de enero se tienen que actualizar según el año actual.
+
+# Se deben actualizar las fechas de posada y reunión a discreción.
+
+# Revisa que no es necesario poner los switch de dias y meses ya se ponen solos con strftime();
+
+***
